@@ -1,0 +1,11 @@
+
+Dataset: Mall Customer Clutter
+
+
+[https://www.kaggle.com/datasets/osmanmusevih/mall-customer-clustering](url)
+
+
+
+
+
+The data set I chose involves customers who go to the mall and shop. It is based on 200 customers and their demographics such as age, gender , income, etc. I chose this data set due to many retail stores going bankrupt. Are malls still going to exist in 10 years? 20 years? The enterprise of online shopping has become so grand where people are no longer going to stores in person. With that being said, Amazon is an example one that is predominately the one where individuals shop especially for the prices given on the platform. Now, the problem I believe is individuals are now losing their jobs. 
